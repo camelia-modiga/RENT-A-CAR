@@ -1,0 +1,33 @@
+Titlul temei: evidența autoturismelor într-o firmă de închirieri auto
+
+Specificatii:
+
+Fiecare masina este identificata in mod unic prin id si are caracteristicile: maraca, an fabricatie, carburant(benzina sau motorian), culoare, transmisie(manuala sau automata), consum la 100 km,tarif
+
+Unei masini i se pot adauga diferite dotari (scaun copil, gps, lanturi zapada)
+
+Clientii sunt identificati prin id_client si au caracteristici: serie act de identitate,tip act (poate fi CI ,pasaport etc), nume, prenume, email, numar de telefon, data nasterii, data obtinere carnet de conducere
+
+Contractul are o data de inceput si o data de incheiere.
+
+Inchirierea se realizeaza pe baza de contract pe o perioada definita de timp.
+
+Tariful este stabilit in functie de masina aleasa, dotarile adaugate si perioada de inchiriere.
+
+O masina nu poate fi inchiriata mai putin de o zi si mai mult de 30 zile.
+
+Pentru a putea inchiria o masina clientul trebuie sa aiba permisul de conducere de cel putin 1 an.
+
+Varsta minima pentru a putea inchiria o masina este 21 de ani iar varsta maxima 70 de ani.
+
+Tariful unei dotari poate fi minim 3 euro si maxim 5 euro.
+
+Firma isi incepe activitatea la 01.10.2020.
+
+Tariful minim pentru o masina este 10 euro.
+
+Consumul unei masini este intre 3 litri/100km si 15 litri/100km.
+
+Toate masinile pe care le are firma au anul de fabricatie intre 2010 si 2020.
+
+
